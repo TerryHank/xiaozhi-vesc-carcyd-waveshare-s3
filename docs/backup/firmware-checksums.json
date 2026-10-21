@@ -1,0 +1,15 @@
+{
+  "xiaozhi-carcyd-zh-tuned-app.bin": {
+    "bytes": 3911632,
+    "sha256": "99283478b630eea3b6568936f3bc021c1bef51e0892ec0d913027fc1d4bc37c7"
+  },
+  "xiaozhi-carcyd-zh-tuned-full.bin": {
+    "bytes": 10052777,
+    "sha256": "6a852601a117eeb4f4eed6863b840f84352a9614ebb81ba34af11db7501d9259"
+  },
+  "xiaozhi-carcyd-zh-tuned-source.tar.gz": {
+    "bytes": 372348206,
+    "sha256": "ea1c87913172f00e206c4d53b132266c5576b6f93d32aebe63195034e9d91250",
+    "files": 12646
+  }
+}

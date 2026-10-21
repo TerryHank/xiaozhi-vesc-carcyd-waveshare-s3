@@ -1,0 +1,104 @@
+{
+  "baseline": [
+    {
+      "scene": "flat-fill",
+      "fps": 18.41,
+      "render_ms": 51.83,
+      "pixels_per_frame": 153600.0,
+      "flushes_per_frame": 32.0,
+      "internal_bytes": 34675
+    },
+    {
+      "scene": "CarCYD-ring",
+      "fps": 45.51,
+      "render_ms": 16.81,
+      "pixels_per_frame": 3491.0,
+      "flushes_per_frame": 2.22,
+      "internal_bytes": 31671
+    },
+    {
+      "scene": "chat-screen",
+      "fps": 8.68,
+      "render_ms": 83.11,
+      "pixels_per_frame": 112608.0,
+      "flushes_per_frame": 26.0,
+      "internal_bytes": 23355
+    },
+    {
+      "scene": "chat-overlay",
+      "fps": 3.05,
+      "render_ms": 281.42,
+      "pixels_per_frame": 112608.0,
+      "flushes_per_frame": 26.0,
+      "internal_bytes": 23367
+    }
+  ],
+  "selected_rgb565": [
+    {
+      "scene": "flat-fill",
+      "fps": 26.18,
+      "render_ms": 36.14,
+      "pixels_per_frame": 153600.0,
+      "flushes_per_frame": 1.0,
+      "internal_bytes": 56695
+    },
+    {
+      "scene": "CarCYD-ring",
+      "fps": 58.76,
+      "render_ms": 12.66,
+      "pixels_per_frame": 3055.0,
+      "flushes_per_frame": 1.99,
+      "internal_bytes": 53595
+    },
+    {
+      "scene": "chat-screen",
+      "fps": 19.28,
+      "render_ms": 27.5,
+      "pixels_per_frame": 112608.0,
+      "flushes_per_frame": 1.0,
+      "internal_bytes": 45255
+    },
+    {
+      "scene": "chat-overlay",
+      "fps": 17.14,
+      "render_ms": 32.79,
+      "pixels_per_frame": 112608.0,
+      "flushes_per_frame": 1.0,
+      "internal_bytes": 45227
+    }
+  ],
+  "rejected_native_endian": [
+    {
+      "scene": "flat-fill",
+      "fps": 31.11,
+      "render_ms": 29.86,
+      "pixels_per_frame": 153600.0,
+      "flushes_per_frame": 1.0,
+      "internal_bytes": 49115
+    },
+    {
+      "scene": "CarCYD-ring",
+      "fps": 53.51,
+      "render_ms": 13.96,
+      "pixels_per_frame": 3247.0,
+      "flushes_per_frame": 1.99,
+      "internal_bytes": 46127
+    },
+    {
+      "scene": "chat-screen",
+      "fps": 18.96,
+      "render_ms": 25.23,
+      "pixels_per_frame": 112608.0,
+      "flushes_per_frame": 1.0,
+      "internal_bytes": 37707
+    },
+    {
+      "scene": "chat-overlay",
+      "fps": 16.14,
+      "render_ms": 30.79,
+      "pixels_per_frame": 112608.0,
+      "flushes_per_frame": 1.0,
+      "internal_bytes": 37823
+    }
+  ]
+}
